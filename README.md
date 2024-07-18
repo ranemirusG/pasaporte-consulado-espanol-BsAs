@@ -7,7 +7,7 @@ Si hubo algún cambio, nos alerta con una notificación de Windows con sonido y 
 
 El ejemplo está hecho para 'Pasaporte renovación y primera vez' [ver nota 1]. En caso de necesitarlo para otro trámite hay que cambiar esa string que correponde a la fila de la tabla en html. Ver imagen a continuación:
 
-![html source example]()
+![html source example](target_source_HTML.png)
 
 Notas:
 [1] En el script la string aparece como `"Pasaportesrenovación y primera vez"` porque el tag `<br>` no tiene cierre (`</br>`) entonces lo parsea así. Eso es una desprolijidad más del sitio del consulado. Hay que ser muy artesanal con este tipo de cosas. Lo importante es que funciona.
