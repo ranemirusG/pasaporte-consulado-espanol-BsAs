@@ -1,5 +1,5 @@
 # pasaporte-consulado-espanol-BsAs
-Dirty scrapper para enterarte cuando hay citas disponibles.
+Dirty scraper para enterarte cuando hay citas disponibles.
 
 Está hecho para ser corrido de manera local en Windows. Es conveniente correrlo como Scheduled Task al iniciar sesión:
 
