@@ -7,10 +7,10 @@ Está hecho para ser corrido de manera local en Windows. Es conveniente correrlo
 2. en `General` ponerle un nombre a la tarea
 3. `Triggers` > `At logon`
 4. `Actions` >
-  4.1 `Start a program`
-  4.2 `Program/script`: full path al python executable
-   4.3 `Arguments`: nombre del script de python (en este caso: `check_citas_pasaporte.py`)
-   4.4 `Start in`: full path al directorio en donde esta dicho script
+4.1 `Start a program`
+4.2 `Program/script`: full path al python executable
+4.3 `Arguments`: nombre del script de python (en este caso: `check_citas_pasaporte.py`)
+4.4 `Start in`: full path al directorio en donde esta dicho script
 
 
 Recomiendo usar el archivo `test.html` para hacer las pruebas y corroborar que funciona correctamente.
