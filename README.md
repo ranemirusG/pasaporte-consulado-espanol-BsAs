@@ -6,7 +6,7 @@ Está hecho para ser corrido de manera local en Windows. Es conveniente correrlo
 1. En Task Scheduler ir a `Actions` > `Create Task`
 2. en `General` ponerle un nombre a la tarea
 3. `Triggers` > `At logon`
-4. `Actions` >
+4. `Actions`
 4.1 `Start a program`
 4.2 `Program/script`: full path al python executable
 4.3 `Arguments`: nombre del script de python (en este caso: `check_citas_pasaporte.py`)
