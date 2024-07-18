@@ -7,6 +7,7 @@ Está hecho para ser corrido de manera local en Windows. Es conveniente correrlo
 2. en `General` ponerle un nombre a la tarea
 3. `Triggers` > `At logon`
 4. `Actions` >
+   
  1. `Start a program`
  2. `Program/script`: full path al python executable
  3. `Arguments`: nombre del script de python (en este caso: `check_citas_pasaporte.py`)
